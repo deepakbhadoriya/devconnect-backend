@@ -1,4 +1,9 @@
 # devconnector
+
+Frontend repo https://github.com/deepakbhadoriya/devconnect-frontend
+
+Backend repo https://github.com/deepakbhadoriya/devconnect-backend
+
 My first app on MERN stack application
 
 Developed while Learing MERN Stack
