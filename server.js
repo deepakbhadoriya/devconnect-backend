@@ -21,7 +21,7 @@ app.use('/api/users', require('./routes/api/users'));
 app.use('/api/posts', require('./routes/api/posts'));
 app.use('/api/profile', require('./routes/api/profile'));
 
-//app.get("/", (req, res) => res.send("api Running"));
+app.get("/", (req, res) => res.redirect('https://devconnect7.netlify.app'););
 
 const PORT = process.env.PORT || 5000;
 
